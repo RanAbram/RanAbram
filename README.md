@@ -1,4 +1,22 @@
-### Hi there 👋
+# Ran Abramovich - @RanAbram
+Hi, I'm Ran - a Senior Full Stack Software Engineer at Yotpo's Loyalty ecommerce solution. Previously worked as a Team Lead officer on Ofek, IAF's technology unit. I love everything related to building high scale, stabled and monitored systems. Intrested in software engineering, economy, sports and more.
+
+## My skills
+:sunglasses: Autodidact 
+
+:green_apple: Creative
+
+:raised_hands: Excellent with human relations
+
+:rocket: Passionate for every new challenge and technology
+
+## Would be happy to assist with
+:boom: **Languages:** Go, Ruby on Rails, C#, C++, TypeScript, Angular, Vue.js
+
+:boom: **DB:** Elastic Search, Redis, mySQL, Oracle
+
+:boom: **Infra:** Kafka, Nomad, Docker, Travis, Grafana, New Relic
+
 
 <!--
 **RanAbram/RanAbram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
