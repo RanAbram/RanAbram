@@ -2,13 +2,13 @@
 Hi, I'm Ran - a Senior Full Stack Software Engineer at Yotpo's Loyalty ecommerce solution. Previously worked as a Team Lead officer on Ofek, IAF's technology unit. I love everything related to building high scale, stabled and monitored systems. Intrested in software engineering, economy, sports and more.
 
 ## My skills
-:sunglasses: Autodidact 
+:sunglasses: Passionate for every new challenge and technology
 
-:green_apple: Creative
+:green_apple: Excellent with human relations
 
-:raised_hands: Excellent with human relations
+:raised_hands: Autodidact 
 
-:rocket: Passionate for every new challenge and technology
+:rocket: Creative
 
 ## Would be happy to assist with
 :boom: **Languages:** Go, Ruby on Rails, C#, C++, TypeScript, Angular, Vue.js
