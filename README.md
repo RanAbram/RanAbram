@@ -1,5 +1,5 @@
 # Ran Abramovich - @RanAbram
-Hi, I'm Ran - a Senior Full Stack Software Engineer at Yotpo's Loyalty ecommerce solution. Previously worked as a Team Lead officer on Ofek, IAF's technology unit. I love everything related to building high scale, stabled and monitored systems. Intrested in software engineering, economy, sports and more.
+Hi, I'm Ran - a Software Engineering Team Lead at Via Transportation. Previously worked as a Senior FS eningeer in Yotpo's Loyalty ecommerce solution and also as a Team Lead officer on Ofek, IAF's technology unit. I love everything related to building high scale, stabled and monitored systems. Intrested in software engineering, economy, sports and more.
 
 ## My skills
 :sunglasses: Passionate for every new challenge and technology
